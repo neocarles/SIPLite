@@ -42,20 +42,20 @@ All Reference and Some Control Credit to Author who Made it that i Forgot
 
 Screenshot
 
-![Splashscreen](/Screenshot/1.png)
+![Splashscreen](https://github.com/carlesneo70/SIPLite/blob/master/Screenshot/1.png)
 
-![Login](/Screenshot/2.png)
+![Login](https://github.com/carlesneo70/SIPLite/blob/master/Screenshot/2.png)
 
-![Dashboard](/Screenshot/3.png)
+![Dashboard](https://github.com/carlesneo70/SIPLite/blob/master/Screenshot/3.png)
 
-![Setting](/Screenshot/4.png)
+![Setting](https://github.com/carlesneo70/SIPLite/blob/master/Screenshot/4.png)
 
-![User Profil](/Screenshot/5.png)
+![User Profil](https://github.com/carlesneo70/SIPLite/blob/master/Screenshot/5.png)
 
-![User Managment](/Screenshot/6.png)
+![User Managment](https://github.com/carlesneo70/SIPLite/blob/master/Screenshot/6.png)
 
-![User Access](/Screenshot/7.png)
+![User Access](https://github.com/carlesneo70/SIPLite/blob/master/Screenshot/7.png)
 
-![User Password Form](/Screenshot/8.png)
+![User Password Form](https://github.com/carlesneo70/SIPLite/blob/master/Screenshot/8.png)
 
-![User Fill Password & About Form](/Screenshot/9.png)
+![User Fill Password & About Form](https://github.com/carlesneo70/SIPLite/blob/master/Screenshot/9.png)
