@@ -1,0 +1,29 @@
+[FormMain]
+MenuNavigasi=MENU NAVIGASI
+MenuNavigasi2=NAV
+MenuNavigasi(0)=Data Karyawan
+MenuNavigasi(1)=Data Potongan
+MenuNavigasi(2)=Data Tunjangan
+MenuNavigasi(3)=Data Gaji
+MenuNavigasi(4)=Pengeluaran
+MenuNavigasi(5)=Pemasukan
+MenuNavigasi(6)=Kas
+MenuNavigasi(7)=Biaya
+MenuNavigasi(8)=Inventaris
+MenuNavigasi(9)=Laporan
+MenuNavigasi(10)=Tentang
+LabelSkins=Tampilan
+LabelStartup=Memulai
+LabelBahasa=Bahasa
+LabelBackground=Latar Belakang
+CheckBeranda=Beranda Otomatis Saat Mulai [*]
+CheckBadge=Gunakan Badge Informasi [*]
+ButtonAdvance=Lanjutan [*]
+CheckBeranda2=Beranda Otomatis Saat Mulai
+CheckBadge2=Gunakan Badge Informasi
+ButtonAdvance2=Lanjutan
+LabelVersion=Versi
+AktifSejak=Aktif Sejak
+
+[FormBeranda]
+Label1=Siapa Saya?

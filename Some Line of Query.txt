@@ -1,0 +1,22 @@
+SELECT
+	departemen.keterangan AS kdep,
+	karyawan_gaji.id AS gid,
+	karyawan_gaji.kode AS gkode,
+	karyawan_gaji.nama AS gnama,
+	karyawan_gaji.basic_hk AS ghk,
+	karyawan_gaji.basic_gaji AS ggaji,
+	karyawan_gaji.hk_miss AS gmiss,
+	karyawan_gaji.hk_potongan AS ghkpot,
+	karyawan_gaji.hk_totpotong AS gtotpot,
+	karyawan_gaji.tunjangan AS gtun,
+	karyawan_gaji.potongan AS gpot,
+	karyawan_gaji.total_gaji AS gtotgaji 
+FROM
+	karyawan_gaji
+	INNER JOIN departemen_karyawan ON karyawan_gaji.kode = departemen_karyawan.id
+	INNER JOIN departemen ON departemen_karyawan.departemen_id = departemen.id 
+WHERE
+	YEAR ( tanggal ) = '2017' 
+	AND MONTH ( tanggal ) = '09' 
+ORDER BY
+	gkode

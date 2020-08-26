@@ -1,0 +1,29 @@
+[FormMain]
+MenuNavigasi=NAVIGATION MENU
+MenuNavigasi2=NAV
+MenuNavigasi(0)=Employee Data
+MenuNavigasi(1)=Salary Cut Data
+MenuNavigasi(2)=Benefit Data
+MenuNavigasi(3)=Payroll data
+MenuNavigasi(4)=Spending
+MenuNavigasi(5)=Income
+MenuNavigasi(6)=Deposit
+MenuNavigasi(7)=Cost
+MenuNavigasi(8)=Inventory
+MenuNavigasi(9)=Report
+MenuNavigasi(10)=About
+LabelSkins=Skins
+LabelStartup=Startup
+LabelBahasa=Language
+LabelBackground=Background
+CheckBeranda=Auto Home On Start [*]
+CheckBadge=Use Information Badge [*]
+ButtonAdvance=Lanjutan [*]
+CheckBeranda2=Auto Home On Start
+CheckBadge2=Use Information Badge
+ButtonAdvance2=Advance
+LabelVersion=Lanjutan
+AktifSejak=Active Since
+
+[FormBeranda]
+Label1=Siapa Saya?
