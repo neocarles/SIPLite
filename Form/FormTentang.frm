@@ -76,7 +76,7 @@ Begin VB.Form FormTentang
       Begin VB.Label LabelCopyURL 
          AutoSize        =   -1  'True
          BackStyle       =   0  'Transparent
-         Caption         =   "http://software.mpcgroups.com/siplite"
+         Caption         =   "https://blog.carlesneo.id/siplite"
          BeginProperty Font 
             Name            =   "Calibri"
             Size            =   9
@@ -93,7 +93,7 @@ Begin VB.Form FormTentang
          MousePointer    =   99  'Custom
          TabIndex        =   10
          Top             =   2580
-         Width           =   3165
+         Width           =   2655
       End
       Begin VB.Label Label3 
          AutoSize        =   -1  'True
@@ -345,7 +345,7 @@ End Sub
 Private Sub LabelCopyURL_Click()
     Pesan_Peringatan "Question", "Anda akan dialihkan ke laman Official Website" & vbNewLine & " Menggunakan Browser Default.", "Buka Link"
     If Respon = "Iya" Then
-        ShellExecute hWnd, "open", "http://software.mpcgroups.com/siplite", _
+        ShellExecute hWnd, "open", "https://blog.carlesneo.id/siplite", _
                      vbNullString, vbNullString, 1
     End If
 End Sub
