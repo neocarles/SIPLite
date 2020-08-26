@@ -42,20 +42,38 @@ All Reference and Some Control Credit to Author who Made it that i Forgot
 
 Screenshot
 
-![Splashscreen](https://raw.githubusercontent.com/carlesneo70/SIPLite/master/Screenshot/1.png)
+# Splashscreen
 
-![Login](https://raw.githubusercontent.com/carlesneo70/SIPLite/master/Screenshot/2.png)
+<img width="964" alt="Splashscreen" src="Screenshot/1.PNG">
 
-![Dashboard](https://raw.githubusercontent.com/carlesneo70/SIPLite/master/Screenshot/3.png)
+# Login
 
-![Setting](https://raw.githubusercontent.com/carlesneo70/SIPLite/master/Screenshot/4.png)
+<img width="964" alt="Splashscreen" src="Screenshot/2.PNG">
 
-![User Profil](https://raw.githubusercontent.com/carlesneo70/SIPLite/master/Screenshot/5.png)
+# Dashboard
 
-![User Managment](https://raw.githubusercontent.com/carlesneo70/SIPLite/master/Screenshot/6.png)
+<img width="964" alt="Splashscreen" src="Screenshot/3.PNG">
 
-![User Access](https://raw.githubusercontent.com/carlesneo70/SIPLite/master/Screenshot/7.png)
+# Setting
 
-![User Password Form](https://raw.githubusercontent.com/carlesneo70/SIPLite/master/Screenshot/8.png)
+<img width="964" alt="Splashscreen" src="Screenshot/4.PNG">
 
-![User Fill Password & About Form](https://raw.githubusercontent.com/carlesneo70/SIPLite/master/Screenshot/9.png)
+# User Profil
+
+<img width="964" alt="Splashscreen" src="Screenshot/5.PNG">
+
+# User Managment
+
+<img width="964" alt="Splashscreen" src="Screenshot/6.PNG">
+
+# User Access
+
+<img width="964" alt="Splashscreen" src="Screenshot/7.PNG">
+
+# User Password Form
+
+<img width="964" alt="Splashscreen" src="Screenshot/8.PNG">
+
+# User Fill Password & About Form
+
+<img width="964" alt="Splashscreen" src="Screenshot/9.PNG">
